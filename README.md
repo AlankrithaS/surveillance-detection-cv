@@ -1,2 +1,2 @@
 # surveillance-detection-cv
-Utilizes YOLOv5 for efficient and accurate detection of objects like persons, cats, and dogs.
+VisionHack 2024 is an event focused on leveraging the power of Object Detection to solve pressing real-world problems. This submission presents a solution tailored for surveillance detection, specifically monitoring parking lots to detect human activities such as individuals opening car doors. Utilizing the YOLOv5 object detection model, the system processes video feeds in real-time, identifies specified objects, and records pertinent segments for further analysis.
